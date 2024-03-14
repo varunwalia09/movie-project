@@ -21,7 +21,7 @@ const Header = () => {
             <ul className="navbar-nav me-auto">
               <nav className="navigation">
                 <ul className="style1">
-                  <li><Link className="btn btn-danger btn btn-outline-dark m-2" to="/dashboard">Dashboard</Link></li>
+                  {/* <li><Link className="btn btn-danger btn btn-outline-dark m-2" to="/dashboard">Dashboard</Link></li> */}
                   {/* <li><Link className="btn btn-danger btn btn-outline-dark m-2" to="/trending">Trending</Link></li> */}
                   {/* Add more navigation links as needed */}
                 </ul>
