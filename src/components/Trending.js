@@ -90,7 +90,7 @@ const Trending = ({ title, param }) => {
                     <button className="close-button btn btn-outline-dark" onClick={handleCloseClick}>
                       Close
                     </button>
-                    <YouTube videoId={item.videoId} opts={{}} />
+                    <YouTube videoId="d9MyW72ELq0" opts={{}} />
                   </div>
                 )}
               </div>
